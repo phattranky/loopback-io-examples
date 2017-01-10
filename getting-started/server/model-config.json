@@ -38,5 +38,13 @@
   "CoffeeShop": {
     "dataSource": "aznodetestdb",
     "public": true
+  },
+  "Review": {
+    "dataSource": "aznodetestdb2",
+    "public": true
+  },
+  "Reviewer": {
+    "dataSource": "aznodetestdb2",
+    "public": true
   }
 }

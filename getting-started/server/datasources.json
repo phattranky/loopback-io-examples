@@ -8,5 +8,15 @@
     "name": "aznodetestdb",
     "user": "phatcomputer",
     "connector": "mongodb"
+  },
+  "aznodetestdb2": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://phatcomputer:123456@localhost:27017/aznodetestdb2",
+    "database": "aznodetestdb2",
+    "password": "123456",
+    "name": "aznodetestdb2",
+    "user": "phatcomputer",
+    "connector": "mongodb"
   }
 }
